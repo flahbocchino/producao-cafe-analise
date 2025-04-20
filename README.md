@@ -57,8 +57,4 @@ Aplicar conceitos de estatística descritiva e visualização de dados com **R n
 
 ---
 
-## 👩‍💻 Autoria
 
-**Flavia Nunes Bocchino**  
-FIAP - Inteligência Artificial | Capítulo 7  
-Projeto: Decolando com Ciências de Dados 🚀
